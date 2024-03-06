@@ -1,0 +1,20 @@
+div {
+    background-color: aqua;
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
+
+p {
+    background-color: aquamarine;
+    width: 60px;
+    height: 40px;
+    display: inline-block;
+}
+
+a {
+    background-color: blueviolet;
+    width: 60px;
+    height: 40px;
+    display: block;
+}
